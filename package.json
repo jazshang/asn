@@ -1,0 +1,16 @@
+{
+  "name": "asn",
+  "version": "1.0.0",
+  "description": "",
+  "node-red" : {
+        "nodes": {
+            "asn ip": "asn.js",
+            "asn": "asn.js"
+        }
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
